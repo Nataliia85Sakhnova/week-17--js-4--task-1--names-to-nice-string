@@ -1,7 +1,7 @@
 // Сделайте интерфейс преобразования ФИО на три поля (input).
 // Учтите, пожалуйста, все нюансы - лишние пробелы, отсутствие больших букв в именах и пр.
 
-document.addEventListener("click", document.getElementById("surname").value.trim());
+const shortSurname = document.addEventListener("click", document.getElementById("surname").value.trim());
 console.log(surname);
 
 
